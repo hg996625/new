@@ -4,4 +4,8 @@ class first
   {
     ///code
   }
+   public void ml()
+  {
+    ///code2
+  }
 }
